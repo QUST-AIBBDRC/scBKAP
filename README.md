@@ -11,10 +11,12 @@ scBKAP, the cornerstone of which is a single-cell bisecting K-means clustering m
 - `scipy = 1.4.1`
 - `pandas = 0.25.3`
 - `scikit-learn = 0.22.1`
-- `tensorflow = 1.13.1`
+- `tensorflow-cpu = 1.13.1`
 - `matplotlib = 3.0.3`
 - `graphtools = 1.5.2`
 - `R = 3.6`
+
+The 18 datasets except the chen dataset were run on a PC with 16 GB memory for 1-20 minutes. Chen dataset need to be run on the server for about 30 minutes.
 
 ## Dataset:
 
