@@ -1,4 +1,4 @@
-# scBKAP: a single-cell RNA-Seq data clustering pipeline
+# scBKAP: a clustering model for single-cell RNA-Seq data based on bisecting K-means
 
 ## Overview
 
