@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sun Jun 23 15:39:16 2019
 
 @author: Administrator
 """
